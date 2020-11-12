@@ -1,0 +1,16 @@
+{
+  "name": "supergulp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "server": "gulp server",
+    "build": "gulp build",
+    "dev": "gulp dev",
+    "build": "gulp build"
+
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
